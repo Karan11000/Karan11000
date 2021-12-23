@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Karan Dua
 - 👀 I’m interested in program solving and development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Devops
 - 📫 How to reach me 
 Mail -> karanduua@gmail.com
 Linked In -> https://www.linkedin.com/in/karan-dua-a398aa20b/
