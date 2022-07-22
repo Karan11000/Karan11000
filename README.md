@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Dua</h1>
-<h3 align="center">A passionate Programmer | Full Stack developer | Leetcoder(Karan_Dua) | Mern Stack | from India</h3>
+<h3 align="center">A passionate Programmer | Full Stack developer | Web3 Developer | Leetcoder(Karan_Dua) | Mern Stack | from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan11000&label=Profile%20views&color=0e75b6&style=flat" alt="karan11000" /> </p>
 
